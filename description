@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = eduardoffz
+	email = eduardoof04@gmail.com
+[remote "origin"]
+	url = https://github.com/eduardoffz/projetocom-crs.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[gui]
+	wmstate = normal
+	geometry = 893x435+104+104 175 196
